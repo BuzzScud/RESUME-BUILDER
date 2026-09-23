@@ -1,0 +1,89 @@
+[
+  {
+    "name": "OCR posting with must-have headings, wrapped lines, repeated preferred bullets and salary metadata",
+    "job": "Al Agent Developer\nStrues Inc \u2022 Reston, VA 20191 \u2022 $120,000 - $130,000 a year\nApply now\n\u8d1d\n\u5c71\nsite.\nDuration: 12 Months\nDescription:\nAl Engineer / Al Agent Developer focused on building and deploying\nGenAl agents within the organization's AWS-based Al ecosystem.\nThe team is specifically looking for candidates with hands-on experience\ndeploying agents on Amazon Bedrock and Amazon AgentCore, including\nunderstanding how AgentCore manages runtime, memory, policy\nengines, identity integration, and agent deployment architecture.\nThis is a hands-on engineering role requiring candidates to design, build,\ndeploy, and support Al-powered solutions rather than simply consume or\nconfigure Al tools.\nMust Have Skills:\n\u2022 Experience working with Al/GenAl services such as Amazon Bedrock,\nSageMaker, Amazon Q, or similar platforms to support Al-based use\ncases.\n\u2022 Hands-on experience with embeddings, RAG patterns, vector\ndatabases, or similar technologies.\n\u2022 Experience with AWS data services such as Glue, Athena,\nDynamoDB, RDS, Redshift.\n\u2022 Experience building or supporting data ingestion, transformation,\nand orchestration workflows\n\u2022 Familiarity with CloudWatch, logging, alerting, troubleshooting, and\nperformance optimization for cloud-based Al/data solutions.\n\nGood-to-Have Skills:\n\u2022 Understanding of IAM roles/policies, least privilege access,\nencryption, secrets management, APl integrations, and secure cloud\ndesign patterns.\n\u2022 Ability to develop Python scripts, REST APls, serverless functions,\nand automation for Al/data workflows.\n\u2022 Ability to work with architecture, security, data, and application\nteams to support POCs, document designs, and drive cloud/Al\nsolution adoption.\n\u2022 Understanding of IAM roles/policies, least privilege access,\nencryption, secrets management, API integrations, and secure cloud\ndesign patterns.\n\u2022 Ability to develop Python scripts, REST APls, serverless functions,\nand automation for Al/data workflows.\n\u2022 Ability to work with architecture, security, data, and application\nteams to support POCs, document designs, and drive cloud/Al\nsolution adoption.\nAWS Al/Data Engineer responsible for building GenAl solutions using\nBedrock, RAG, vector databases, AWS data services, secure integrations,\nand scalable pipelines to support enterprise Al and analytics use cases\nThank you,\nHiring Manager\nSTRUES Inc\nJob Type: Contract\nPay: $120,000.00 - $130,000.00 per year\nWork Location: In person\n/ Report job",
+    "company": "Strues inc",
+    "role": "AI Agent Developer",
+    "count": 9,
+    "required": 5,
+    "preferred": 3,
+    "include": [
+      "Amazon AgentCore",
+      "SageMaker",
+      "RAG patterns, vector databases",
+      "orchestration workflows",
+      "CloudWatch",
+      "least privilege access",
+      "Python scripts",
+      "solution adoption."
+    ],
+    "exclude": [
+      "$120,000",
+      "Duration:",
+      "Job Type:",
+      "Apply now",
+      "AWS Al/Data Engineer responsible"
+    ]
+  },
+  {
+    "name": "Conventional headings retain degree and years requirements",
+    "job": "Example Employer\nPython Developer\nBuild tested services.\nRequired qualifications:\nHands-on Python and PostgreSQL development.\nA PhD in Computer Science.\n12 years of Kubernetes administration.\nBenefits:\nHealth insurance.\nPay: $120,000 a year",
+    "company": "Example Employer",
+    "role": "Python Developer",
+    "count": 3,
+    "required": 3,
+    "preferred": 0,
+    "include": [
+      "PhD",
+      "12 years"
+    ],
+    "exclude": [
+      "insurance",
+      "$120,000",
+      "Build tested"
+    ]
+  },
+  {
+    "name": "Inline headings and duplicate punctuation",
+    "job": "Required skills: Experience with Python and SQL.\nPreferred qualifications: Familiarity with Docker.\n\u2022 Familiarity with Docker!\nHow to apply:\nSend your resume.",
+    "company": "",
+    "role": "Developer",
+    "count": 2,
+    "required": 1,
+    "preferred": 1,
+    "include": [
+      "Python",
+      "Docker"
+    ],
+    "exclude": [
+      "Send your resume"
+    ]
+  },
+  {
+    "name": "No skill sections do not invent gaps from metadata",
+    "job": "Al Agent Developer\nStrues Inc \u2022 Reston, VA 20191 \u2022 $120,000 a year\nApply now\nDuration: 12 Months\nDescription:\nBuild and deploy AI tools.\nJob Type: Contract\nWork Location: In person",
+    "company": "Strues inc",
+    "role": "AI Agent Developer",
+    "count": 0,
+    "required": 0,
+    "preferred": 0,
+    "include": [],
+    "exclude": []
+  },
+  {
+    "name": "Explicit qualification bullets work without a heading",
+    "job": "Backend Developer\nExample Inc\n\u2022 5 years of Python development.\n\u2022 Bachelor\u2019s degree in Computer Science.\nApply online",
+    "company": "Example Inc",
+    "role": "Backend Developer",
+    "count": 2,
+    "required": 0,
+    "preferred": 0,
+    "include": [
+      "5 years",
+      "degree"
+    ],
+    "exclude": [
+      "Apply online"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Equity Orbit",
+    "category": "FULL-STACK SYSTEMS",
+    "body": "Built a multi-desk platform connecting charting, forecasts, market data and order entry through shared authentication and broker integrations.",
+    "detail": "Engineering: PostgreSQL workflows and forecast snapshots; GitHub Actions, Vitest and Playwright release checks.",
+    "stack": "React / Vite | Express | PostgreSQL | Python | SignalR",
+    "image": "equity-home-full.png",
+    "crop": [
+      39,
+      54,
+      1000,
+      641
+    ],
+    "caption": "Equity Orbit home page",
+    "bg": "#0b0d11",
+    "id": "work0"
+  },
+  {
+    "title": "Offline Document Retrieval (RAG)",
+    "category": "APPLIED AI",
+    "body": "Built a local assistant with OCR, vision captions, vector + BM25 search, cross-encoder reranking and a local 9B language model.",
+    "detail": "Evaluation: 70-question suite, including 25 cases with expected sources; incremental indexing and cited answers.",
+    "stack": "Python | FastAPI | Ollama | LanceDB / pgvector",
+    "image": "rag-full.png",
+    "crop": [
+      129,
+      178,
+      908,
+      648
+    ],
+    "caption": "Pipeline settings preview",
+    "bg": "#131411",
+    "id": "work1"
+  },
+  {
+    "title": "Transformer Training Lab",
+    "category": "DEEP LEARNING",
+    "body": "Implemented a 4.83M-parameter decoder-only Transformer with six blocks, eight attention heads and Apple MPS acceleration.",
+    "detail": "Recorded run: 10,000 steps on Tiny Shakespeare; validation loss 4.34 to 1.65. Added loss charts and attention heatmaps.",
+    "stack": "Python | PyTorch | Apple MPS | JavaScript",
+    "image": "training-existing.png",
+    "crop": null,
+    "caption": "Training ledger and validation loss",
+    "bg": "#f5f5f2",
+    "id": "work2"
+  },
+  {
+    "title": "Graph Finance Engine",
+    "category": "GRAPH ANALYTICS",
+    "body": "Modeled assets, sectors, factors and portfolios in Neo4j, with interactive graph exploration and portfolio exposure analysis.",
+    "detail": "Engineering: PageRank, centrality, communities and shortest paths; guarded Cypher queries with timeouts and result limits.",
+    "stack": "FastAPI | Neo4j | NetworkX | React / TypeScript | three.js",
+    "image": "graph-full.png",
+    "crop": [
+      248,
+      187,
+      886,
+      655
+    ],
+    "caption": "Graph view - sample dataset",
+    "bg": "#060b13",
+    "id": "work3"
+  },
+  {
+    "title": "Physics Lab",
+    "category": "SCIENTIFIC SOFTWARE",
+    "body": "Built interactive physics and geometry simulations with live equations, including Circle constructions and quantum orbital views.",
+    "detail": "Verification: Repository includes 181 automated checks: 168 physics tests, including analytic checks, plus 13 formatting tests.",
+    "stack": "TypeScript | three.js / WebGL | KaTeX | Vitest",
+    "physics": true,
+    "id": "work4"
+  }
+]

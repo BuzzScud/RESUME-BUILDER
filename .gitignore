@@ -1,0 +1,39 @@
+# Generated app bundles, compiler caches, and test output
+/build/
+*.app/
+*.dSYM/
+*.dmg
+*.zip
+.build/
+DerivedData/
+
+# macOS and editor files
+.DS_Store
+._*
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Local configuration, credentials, and personal workspace data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/private/
+/sessions/
+/imports/
+/backups/
+/exports/
+/Rolecraft Exports/
+/settings.json
+/MEMORY.md
+/Resources/library/
+/Resources/classic-preview.png
+*.pdf
+
+# One-off migration scripts are not part of the app build
+/checklist_patch.py
+/update_checklist_ui.py
+/build_seed.py

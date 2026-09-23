@@ -1,0 +1,54 @@
+[
+  {
+    "id": "classic",
+    "title": "Classic \u00b7 sample data",
+    "text": "Fictional sample resume. Replace all example facts before applying.",
+    "profile": {
+      "name": "Alex Morgan",
+      "headline": "SOFTWARE DEVELOPER | PYTHON & DATA SYSTEMS",
+      "contact": "alex.morgan@example.com | example.com",
+      "summary": "Sample profile for trying Rolecraft. Software developer working with Python APIs, SQL data pipelines, and document retrieval. This fictional experience demonstrates the Classic template; replace it with your own verified career facts before preparing an application.",
+      "skills": [
+        "Languages: Python, SQL, JavaScript",
+        "Data: PostgreSQL, document retrieval, embeddings",
+        "Delivery: FastAPI, Docker, automated tests"
+      ],
+      "education": [
+        "Example College | Associate degree, 2020 (sample)"
+      ],
+      "experience": [
+        {
+          "id": "job0",
+          "title": "Software Developer",
+          "company": "Example Studio (fictional)",
+          "dates": "2022 - Present",
+          "bullets": [
+            {
+              "id": "job0-b0",
+              "text": "Built Python APIs that process 600+ sample records in a local demo workflow."
+            },
+            {
+              "id": "job0-b1",
+              "text": "Connected SQL reporting queries to a web interface and added automated regression checks."
+            },
+            {
+              "id": "job0-b2",
+              "text": "Documented setup steps and worked with example users to improve software workflows."
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "project0",
+          "title": "Document Search Demo",
+          "text": "A sample retrieval project using Python, embeddings, and searchable document metadata."
+        }
+      ]
+    },
+    "template": "classic",
+    "imported": false,
+    "sample": true,
+    "needsMapping": true
+  }
+]
